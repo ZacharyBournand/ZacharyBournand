@@ -21,15 +21,15 @@ I am currently a Computer Science student at the University of Florida in my jun
 
 ### Skills
 
-### Front-end
+#### Front-end
 
 - **JavaScript**
 - **HTML**
 - **CSS**
 
-### Back-end
+#### Back-end
 
-- **Node.js**
+- Node.js
 - **Express.js**
 - **PHP**
 - **Symfony**
@@ -37,10 +37,10 @@ I am currently a Computer Science student at the University of Florida in my jun
 - **C++**
 - **Python**
 
-### DBMS
+#### DBMS
 
 - **PostgreSQL**
 - **MySQL**
 
-### Socials
+#### Socials
 <a href="https://www.linkedin.com/in/zachary-bournand-6908a5168" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
