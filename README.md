@@ -16,9 +16,9 @@ Here are some bullet points about me:
 * I am currently a Computer Science student at the University of Florida in my junior year of college. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
 
 
-* 🌍  I'm based in Tampa Bay, Florida
-* 🖥️  See my portfolio at [https://zacharybournand.com](http://zacharybournand.com)
-* ✉️  You can contact me at [zacharybournand@gmail.com](mailto:zacharybournand@gmail.com)
+🌍  I'm based in Tampa Bay, Florida
+🖥️  See my portfolio at [https://zacharybournand.com](http://zacharybournand.com)
+✉️  You can contact me at [zacharybournand@gmail.com](mailto:zacharybournand@gmail.com)
 
 
 ## Skills
