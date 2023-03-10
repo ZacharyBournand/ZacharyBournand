@@ -23,7 +23,7 @@ I want to pursue this career path because it allows me to be creative, and I get
 ### Skills
 #### Front-end
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="15" height="15" alt="JavaScript" />JavaScript</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" />JavaScript</a>
 <p>JavaScript</p>
 
 
