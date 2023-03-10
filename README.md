@@ -4,15 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 And I am a Computer Science Student at the University of Florida
 ----------------------------------------------------------------
 
-I did a 6-month full-stack JavaScript program that ended in May of 2021 at a coding bootcamp called O’clock, in the Paris region.
+Here are some bullet points about me:
+* I did a 6-month full-stack JavaScript program that ended in May of 2021 at a coding bootcamp called O’clock, in the Paris region.
 
-For the last month of my coding program, I and my awesome team of 3 other members built an e-commerce website for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon.
+* For the last month of my coding program, I and my awesome team of 3 other members built an e-commerce website for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon.
 
-Then, I did a summer internship at a large publishing company called Eyrolles in Paris, France. I developed a web application using PHP and its framework Symfony.
+* Then, I did a summer internship at a large publishing company called Eyrolles in Paris, France. I developed a web application using PHP and its framework Symfony.
 
-From November to December 2022, I and my teammate built a movie search engine in C++. 
+* From November to December 2022, I and my teammate built a movie search engine in C++. 
 
-I am currently a Computer Science student at the University of Florida in my junior year of college. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
+* I am currently a Computer Science student at the University of Florida in my junior year of college. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
+
 
 * 🌍  I'm based in Tampa Bay, Florida
 * 🖥️  See my portfolio at [https://zacharybournand.com](http://zacharybournand.com)
