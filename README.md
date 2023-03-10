@@ -11,7 +11,7 @@ Here are some interesting facts about me:
 
 * In the summer of 2021, I interned at a large publishing company called Eyrolles in Paris, France. I developed a web application using PHP and its framework Symfony.
 
-* From November to December 2022, I and my teammate built a <a href="https://github.com/ZacharyBournand/movie-search-engine">movie search engine</a> in C++. 
+* From November to December 2022, I and my teammate built a <a href="https://github.com/ZacharyBournand/movie-search-engine" target="_blank">movie search engine</a> in C++. 
 
 I am currently a Computer Science student at the University of Florida in my junior year of college. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
 
