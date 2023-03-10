@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 And I am a Computer Science student at the University of Florida
 ----------------------------------------------------------------
 
-Here are some interesting facts about me:
+Here are some highlights of my experience:
 * I did a 6-month full-stack JavaScript program that ended in May of 2021 at a coding bootcamp called O’clock, in the Paris region.
 
 * For the last month of my coding program, I and my awesome team of 3 other members built an <a href="https://github.com/Geoffrey-Maillot/O-medocs_back" target="_blank">e-commerce website</a> for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon.
