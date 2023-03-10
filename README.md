@@ -26,8 +26,8 @@ I am currently a Computer Science student at the University of Florida in my jun
 - CSS
 
 #### Back-end
-- Node.js | Express.js   
-- PHP | Symfony    
+- Node.js **|** Express.js   
+- PHP **|** Symfony    
 - Go    
 - C++    
 - Python
