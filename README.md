@@ -9,18 +9,16 @@ Here are some bullet points about me:
 
 * For the last month of my coding program, I and my awesome team of 3 other members built an e-commerce website for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon.
 
-* Then, I did a summer internship at a large publishing company called Eyrolles in Paris, France. I developed a web application using PHP and its framework Symfony.
+* In the summer of 2021, I interned at a large publishing company called Eyrolles in Paris, France. I developed a web application using PHP and its framework Symfony.
 
 * From November to December 2022, I and my teammate built a movie search engine in C++. 
 
-* I am currently a Computer Science student at the University of Florida in my junior year of college. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
+I am currently a Computer Science student at the University of Florida in my junior year of college. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
 
 
-🌍  I'm based in Tampa Bay, Florida
-
-🖥️  See my portfolio at [https://zacharybournand.com](http://zacharybournand.com)
-
-✉️  You can contact me at [zacharybournand@gmail.com](mailto:zacharybournand@gmail.com)
+* 🌍  I'm based in Tampa Bay, Florida
+* 🖥️  See my portfolio at [https://zacharybournand.com](http://zacharybournand.com)
+* ✉️  You can contact me at [zacharybournand@gmail.com](mailto:zacharybournand@gmail.com)
 
 
 ## Skills
