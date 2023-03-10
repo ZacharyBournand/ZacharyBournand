@@ -7,7 +7,7 @@ And I am a Computer Science student at the University of Florida
 Here are some interesting facts about me:
 * I did a 6-month full-stack JavaScript program that ended in May of 2021 at a coding bootcamp called O’clock, in the Paris region.
 
-* For the last month of my coding program, I and my awesome team of 3 other members built an <a href="[[https://www.linkedin.com/in/zachary-bournand-6908a5168](https://github.com/Geoffrey-Maillot/O-medocs_back)](https://github.com/Geoffrey-Maillot/O-medocs_back)" target="_blank" rel="noreferrer">e-commerce website</a> for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon.
+* For the last month of my coding program, I and my awesome team of 3 other members built an <a href="https://github.com/Geoffrey-Maillot/O-medocs_back" target="_blank" rel="noreferrer">e-commerce website</a> for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon.
 
 * In the summer of 2021, I interned at a large publishing company called Eyrolles in Paris, France. I developed a web application using PHP and its framework Symfony.
 
