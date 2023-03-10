@@ -30,7 +30,7 @@ I am currently a Computer Science student at the University of Florida in my jun
 ### Back-end
 - Node.js **|** Express.js   
 - PHP **|** Symfony    
-- Go    
+- Go (Golang)
 - C++    
 - Python
 
