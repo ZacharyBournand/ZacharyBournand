@@ -17,7 +17,9 @@ Here are some bullet points about me:
 
 
 🌍  I'm based in Tampa Bay, Florida
+
 🖥️  See my portfolio at [https://zacharybournand.com](http://zacharybournand.com)
+
 ✉️  You can contact me at [zacharybournand@gmail.com](mailto:zacharybournand@gmail.com)
 
 
