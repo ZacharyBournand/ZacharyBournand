@@ -21,13 +21,20 @@ I am currently a Computer Science student at the University of Florida in my jun
 
 ### Skills
 #### Front-end
-JavaScript **|**  HTML  **|**  CSS
+- JavaScript 
+- HTML  
+- CSS
 
 #### Back-end
-Node.js  |  Express.js  |  PHP  |  Symfony  |  Go  |  C++  |  Python
+- Node.js | Express.js   
+- PHP | Symfony    
+- Go    
+- C++    
+- Python
 
 #### DBMS
-PostgreSQL  |  MySQL
+- PostgreSQL    
+- MySQL
 
 
 ### Socials
