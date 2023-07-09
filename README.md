@@ -13,7 +13,7 @@ Here are some highlights of my experience:
 
 * From November to December 2022, my teammate and I built a <a href="https://github.com/ZacharyBournand/movie-search-engine" target="_blank">movie search engine</a> in C++.
 
-* And from January to July 2023, I collaborated with 3 team members to build a <a href="https://github.com/ZacharyBournand/crave-finder" target="_blank">restaurant finder web application</a> in Angular and Go that enables users to search for a restaurant by inputting its name or a dish in a given city and rate its dishes.
+* And from January to July 2023, I collaborated with 3 team members to build a <a href="https://github.com/ZacharyBournand/crave-finder" target="_blank">restaurant finder web application</a> in Angular and Go that enables users to search for a restaurant by inputting its name or a dish in a given city and to rate its dishes.
 
 I am currently a Computer Science student at the University of Florida in my junior year of college. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
 
