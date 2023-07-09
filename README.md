@@ -7,7 +7,7 @@ And I am a Computer Science student at the University of Florida
 Here are some highlights of my experience:
 * I did a 6-month full-stack JavaScript program that ended in May of 2021 at a coding bootcamp called O’clock, in the Paris region.
 
-* For the last month of my coding program, my awesome 3 teammates and I built an <a href="https://github.com/ZacharyBournand/omedocs-back" target="_blank">e-commerce web application</a> in React/Redux and Node.js/Express for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon.
+* For the last month of my coding program, my awesome 3 teammates and I built an <a href="https://github.com/ZacharyBournand/omedocs-back" target="_blank">e-commerce web application</a> in React/Redux and Node.js/Express for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon. It is aimed at reducing the $1.1 billion annual waste of medicine in France.
 
 * In the summer of 2021, I interned at a large independent publishing company called Eyrolles in Paris, France. I developed a web application using PHP and its framework Symfony.
 
