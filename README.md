@@ -9,7 +9,7 @@ Here are some highlights of my experience:
 
 * For the last month of my coding program, my awesome 3 teammates and I built an <a href="https://github.com/ZacharyBournand/omedocs-back" target="_blank">e-commerce web application</a> in React/Redux and Node.js/Express for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon. It is aimed at reducing the $1.1 billion annual waste of medicine in France.
 
-* In the summer of 2021, I interned at a large independent publishing company called Eyrolles in Paris, France. I developed a web application using PHP and its framework Symfony.
+* In the summer of 2021, I interned at Eyrolles, which is one of the largest independent publishing companies in France. I developed a web application using PHP and its framework Symfony.
 
 * From November to December 2022, my teammate and I built a <a href="https://github.com/ZacharyBournand/movie-search-engine" target="_blank">movie search engine</a> in C++.
 
