@@ -43,4 +43,4 @@ I am currently a Computer Science student at the University of Florida in my jun
 
 
 ## Socials
-<a href="https://www.linkedin.com/in/zachary-bournand-6908a5168" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/zacharybournand/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
