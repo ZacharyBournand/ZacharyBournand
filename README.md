@@ -17,7 +17,7 @@ Here are some highlights of my experience:
 
 * From August to December 2024, I collaborated with 4 teammates to build and deploy a <a href="https://github.com/ysheliakin/pallass" target="_blank">research collaboration web application</a> in React and Go that enables researchers to collaborate and search for funding opportunities.
 
-I am currently a Computer Science student at the University of Florida in my senior year of college. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
+I am currently a Computer Science student at the University of Florida in my senior year who will graduate in December of 2024. I want to pursue this career path because it allows me to be creative, and I get to continuously improve myself through the challenges I face.
 
 
 * 🌍  I am based in Tampa Bay, Florida
