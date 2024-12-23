@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zachary Bournand
 ========================================================================================================================================
 
-And I am a recent Computer Science graduate from the University of Florida
+And I am a recent Computer Science graduate (Dec. 2024) from the University of Florida
 ----------------------------------------------------------------
 
 Here are some highlights of my experience:
