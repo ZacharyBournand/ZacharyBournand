@@ -23,7 +23,6 @@ I grew up in France up until 11th grade before moving to the United States, thro
 * In August 2020, I earned an A.A. degree in Computer Science that I started pursuing in May 2018.
 
 I want to pursue this career path because it allows me to be creative and continuously improve through the challenges I face. And now that I recently graduated with a Bachelor's degree in Computer Science from the University of Florida, I want to make it a career to add value to people’s lives.
-.
 
 * 🌍  I am based in Tampa Bay, Florida
 * 🖥️  See my portfolio at [https://zacharybournand.com](http://zacharybournand.com)
