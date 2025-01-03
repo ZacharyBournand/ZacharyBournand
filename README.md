@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 And I am a recent Computer Science graduate (Dec. 2024) from the University of Florida
 ----------------------------------------------------------------
 
-I grew up in France up until 11th grade before moving to the United States with my dual French-American citizenship where I adapted to a new environment. During my higher education journey, I’ve sharpened both my technical and teamwork skills through academic studies, coding projects, and an internship that deepened my understanding of the professional world. Below are highlights of my experiences:
+I grew up in France up until 11th grade, before moving to the United States with my dual French-American citizenship where I adapted to a new environment. During my higher education journey, I’ve sharpened both my technical and teamwork skills through academic studies, coding projects, and an internship that deepened my understanding of the professional world. Below are highlights of my experiences:
 
 * In December 2024, I graduated from the University of Florida with a Bachelor's degree in Computer Science that I started pursuing in August 2021.
 
