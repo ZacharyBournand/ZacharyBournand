@@ -18,7 +18,7 @@ I grew up in France up until 11th grade, before moving to the United States with
 
 * From April to May 2021, my 3 teammates and I built an <a href="https://github.com/ZacharyBournand/omedocs-back" target="_blank">e-commerce web application</a> in React/Redux and Node.js/Express for medical professionals to buy and sell medicine that cannot be sold to individuals because they expire soon. It is aimed at reducing the $1.1 billion annual waste of medicine in France.
 
-* From November 2020 to May 2021, I did a full-stack JavaScript program at a coding bootcamp: O’clock, in the Paris region.
+* From November 2020 to May 2021, I did a full-stack JavaScript program at a coding bootcamp: O’clock, in the Paris region, in France.
 
 * In August 2020, I earned an A.A. degree in Computer Science that I started pursuing in May 2018.
 
