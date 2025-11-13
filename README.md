@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Zachary Bournand
 ========================================================================================================================================
 
-And I am a recent Computer Science graduate (Dec. 2024) from the University of Florida
+And I am a Computer Science graduate (Dec. 2024) from the University of Florida
 ----------------------------------------------------------------
 
 I grew up in France up until 11th grade, before moving to the United States with my dual French-American citizenship where I adapted to a new environment. During my higher education journey, I’ve sharpened both my technical and teamwork skills through academic studies, coding projects, and an internship that deepened my understanding of the professional world. Below are highlights of my experiences:
