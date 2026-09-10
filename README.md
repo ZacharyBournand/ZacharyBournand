@@ -20,7 +20,7 @@ I grew up in France up until 11th grade, before moving to the United States with
 
 * From November 2020 to May 2021, I did a full-stack JavaScript program at a coding bootcamp: O’clock, in the Paris region, in France.
 
-* In August 2020, I earned an A.A. degree in Computer Science that I started pursuing in May 2018.
+* In August 2020, I earned an A.A. degree in Computer Science from St. Petersburg College.
 
 I want to pursue this career path because it allows me to be creative and continuously improve through the challenges I face. Having recently graduated with a Bachelor's degree in Computer Science from the University of Florida, I am eager to turn this passion into a career that adds value to people's lives.
 
