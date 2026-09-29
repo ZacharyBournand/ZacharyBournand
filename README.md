@@ -41,7 +41,7 @@ I want to pursue this career path because it allows me to be creative and contin
 - Go (Golang)
 - Python
 
-### DBMS
+### RDBMS
 - PostgreSQL    
 - MySQL
 
