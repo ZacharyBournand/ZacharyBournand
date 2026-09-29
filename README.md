@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Zachary Bournand
 ========================================================================================================================================
 
-And I am a backend-focused software engineer with a B.S. in Computer Science from the University of Florida
+And I am a Backend-Focused Software Engineer with a B.S. in Computer Science from the University of Florida
 ----------------------------------------------------------------
 
 I grew up in France until 11th grade, before moving to the United States. This experience helped me adapt to new environments and build resilience. Having dual French-American citizenship, I am able to live and work in both countries. Throughout my higher education, I’ve honed my teamwork and technical skills through the education I received, coding projects, and an internship that further deepened my understanding of the professional world. Below are highlights of my experiences:
