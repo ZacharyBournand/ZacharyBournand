@@ -24,25 +24,22 @@ I grew up in France until 11th grade, before moving to the United States. This e
 
 I want to pursue this career path because it allows me to be creative and continuously improve through the challenges I face. Having recently graduated with a Bachelor's degree in Computer Science from the University of Florida, I am eager to turn this passion into a career that adds value to people's lives.
 
-* 🌍  I am based in Tampa Bay, Florida and willing to relocate for my career. 
+* 🌍  I am based in Tampa Bay, Florida, and am willing to relocate for a job opportunity.
 * 🖥️  See my portfolio at [https://zacharybournand.com](http://zacharybournand.com)
 * ✉️  You can contact me at [zacharybournand@gmail.com](mailto:zacharybournand@gmail.com)
 
 
 ## Skills
-### Front-end
+### Frontend
 - React
-- Angular
 - HTML  
 - CSS
 - JavaScript 
 
-### Back-end
+### Backend
 - Node.js **|** Express.js
 - Go (Golang)
 - Python
-- C++
-- PHP **|** Symfony
 
 ### DBMS
 - PostgreSQL    
