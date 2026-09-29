@@ -6,7 +6,7 @@ And I am a backend-focused software engineer with a B.S. in Computer Science fro
 
 I grew up in France until 11th grade, before moving to the United States. This experience helped me adapt to new environments and build resilience. Having dual French-American citizenship, I am able to live and work in both countries. Throughout my higher education, I’ve honed my teamwork and technical skills through the education I received, coding projects, and an internship that further deepened my understanding of the professional world. Below are highlights of my experiences:
 
-* In December 2024, I graduated from the University of Florida with a Bachelor's degree in Computer Science that I started pursuing in August 2021.
+* In December 2024, I graduated from the University of Florida with a Bachelor's degree in Computer Science, which I started pursuing in August 2021.
 
 * From August to December 2024, I collaborated with 4 teammates to build and deploy a <a href="https://github.com/ZacharyBournand/pallass" target="_blank">research collaboration web application</a> in React and Go that enables researchers to collaborate and search for funding opportunities.
 
